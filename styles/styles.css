@@ -1,0 +1,17 @@
+/* WEBSITE */
+
+::-webkit-scrollbar{
+
+}
+
+/* TOP SECTION */
+
+.my-photo{
+    border-radius: 50%;
+    height: 100px;
+    display: inline-block;
+}
+
+.title{
+    display: inline-block;
+}
